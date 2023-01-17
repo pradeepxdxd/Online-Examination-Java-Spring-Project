@@ -1,0 +1,10 @@
+127.0.0.1 - - [28/Jul/2022:09:34:31 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:09:34:33 +0530] "GET /YourSignInPage/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:09:34:34 +0530] "GET /YourSignInPage/home HTTP/1.1" 200 8141
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:09:34:34 +0530] "GET /OnlineQuiz/URLReachToMainFolder/css/home.css HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:09:34:36 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:09:34:45 +0530] "GET /YourSignInPage/contact HTTP/1.1" 200 8145
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:09:35:35 +0530] "POST /YourSignInPage/contactHandler HTTP/1.1" 200 8145
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:09:35:39 +0530] "GET /YourSignInPage/register HTTP/1.1" 200 4536
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:09:36:54 +0530] "GET /YourSignInPage/login HTTP/1.1" 200 4318
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:09:37:11 +0530] "POST /YourSignInPage/loginFormHandler HTTP/1.1" 200 7111
